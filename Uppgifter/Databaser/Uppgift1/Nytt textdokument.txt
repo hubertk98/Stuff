@@ -1,0 +1,9 @@
+1
+a) SELECT ålder FROM test2 WHERE förnamn like '%tt%';
+b) SELECT förnamn FROM test2 WHERE efternamn is null;
+c) SELECT* FROM test2 WHERE förnamn LIKE 'K%';
+d) SELECT förnamn FROM test2 WHERE ålder<13;
+e) SELECT efternamn FROM test2;
+
+2
+a) varchar values "sak","sak"
