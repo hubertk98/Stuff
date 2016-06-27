@@ -12,7 +12,7 @@ if(@$_SESSION['loggedIn']){ //Kolla om man är inloggad
 	<head>
 
 		<link rel="Stylesheet" href="Login.css" >
-
+		<meta charset="utf-8">
 	</head>
 	
 	<body>
@@ -40,7 +40,7 @@ if(@$_SESSION['loggedIn']){ //Kolla om man är inloggad
 					
 					<tr>
 						<td>
-							<p>Lösenord:</p><br>
+							<p>Password:</p><br>
 							<input type="password" name="Password"  required>
 						</td>
 					</tr>

@@ -10,7 +10,7 @@
 	<head>
 
 		<link rel="Stylesheet" href="startsida.css" > 
-
+		<meta charset="utf-8">
 	</head>
 
 	<body>

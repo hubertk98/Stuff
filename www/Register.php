@@ -4,7 +4,7 @@
 	<head>
 
 		<link rel="Stylesheet" href="Register.css" >
-
+		<meta charset="utf-8">
 	</head>
 	
 	<body>

@@ -14,7 +14,7 @@ body{
 
 .menu{
 	color: black;
-	width: 450px;
+	width: 350px;
 	height: 55px;
 	background-color: purple;
 	font-size: 40px;
@@ -22,7 +22,6 @@ body{
 	float: left;
 	font-style: italic;
 	margin-top: 10px;
-
 }
 
 .menu a {
@@ -31,9 +30,12 @@ body{
 }
 
 .nav{
+	margin-left: 155px;
+	margin-bottom: 100px;
 	float: left;
 	height: 55px;
 }
+
 .menu:hover{
 	background-color: red;
 }
@@ -49,4 +51,57 @@ body{
 	font-style: italic;
 	float: center;
 	font-size: 18px;
+}
+
+.itemPicture img {
+	width: 20%;
+}
+
+
+.itemContainer {     
+	display: inline-block;     
+	background-color: purple;     
+	width: 20%;     
+	text-align: center;     
+	margin: 2%; 
+	margin-left: 110px;
+}  
+
+.itemPicture img {
+	width: 50%;
+}
+
+.itemPicture img {
+	margin-top: 7.5px;
+	width: 250px;
+	height: 250px;
+}
+
+.itemName {     
+	font-size: 30px; 
+}  
+
+.itemInfoBox {     
+	font-size: 15px;     
+	width: 75%;     
+	text-align: left;     
+	margin-top: -2px; 
+}  
+
+.itemButtonContainer {     
+	font-size: 20px;     
+	margin-top: -55px; 
+}  
+
+.itemPrice {     
+	text-align: left;     
+	width: 25%;     
+	margin-left: 77%; 
+}  
+
+.itemBuyButton {     
+	text-align: left;     
+	margin-top: -25px;     
+	width: 25%;     
+	margin-left: 77%; 
 }
